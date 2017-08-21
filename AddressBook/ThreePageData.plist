@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>大陆</string>
+		<key>type</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>老虎</string>
+		<key>type</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>大象</string>
+		<key>type</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>天气</string>
+		<key>type</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>下雪</string>
+		<key>type</key>
+		<false/>
+	</dict>
+</array>
+</plist>

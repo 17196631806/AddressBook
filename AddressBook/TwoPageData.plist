@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>小张</string>
+		<key>type</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>小红</string>
+		<key>type</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>小明</string>
+		<key>type</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>小花</string>
+		<key>type</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>大海</string>
+		<key>type</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>河流</string>
+		<key>type</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>部门一</string>
+		<key>type</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>部门二</string>
+		<key>type</key>
+		<true/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>部门三</string>
+		<key>type</key>
+		<true/>
+	</dict>
+</array>
+</plist>
