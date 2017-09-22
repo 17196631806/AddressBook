@@ -14,9 +14,7 @@
 @interface ViewController ()<UITableViewDelegate,UITableViewDataSource,UIGestureRecognizerDelegate>
 
 @property (nonatomic,strong) UITableView *table;
-
 @property(strong,nonatomic)MyScrollView * mScrollView;//导航栏标题
-
 @property(nonatomic,assign)BOOL isBack;
 
 
